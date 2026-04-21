@@ -38,9 +38,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/NKacludis24/sandlot"
-Repository = "https://github.com/NKacludis24/sandlot"
-Issues = "https://github.com/NKacludis24/sandlot/issues"
+Homepage = "https://github.com/NickolisK24/sandlot"
+Repository = "https://github.com/NickolisK24/sandlot"
+Issues = "https://github.com/NickolisK24/sandlot/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/sandlot"]
