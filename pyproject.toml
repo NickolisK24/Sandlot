@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [
-    { name = "<YOUR NAME>", email = "you@example.com" },
+    { name = "Nickolis Kacludis", email = "nickoliskacludis@gmail.com" },
 ]
 keywords = ["baseball", "statcast", "mlb", "sabermetrics", "analytics"]
 classifiers = [
@@ -38,9 +38,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/<YOUR_USERNAME>/sandlot"
-Repository = "https://github.com/<YOUR_USERNAME>/sandlot"
-Issues = "https://github.com/<YOUR_USERNAME>/sandlot/issues"
+Homepage = "https://github.com/NKacludis24/sandlot"
+Repository = "https://github.com/NKacludis24/sandlot"
+Issues = "https://github.com/NKacludis24/sandlot/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/sandlot"]
